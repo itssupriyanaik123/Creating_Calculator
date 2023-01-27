@@ -18,3 +18,4 @@ decade, prices had dropped to the point where a basic calculator was affordable 
 Computer operating systems as far back as early Unix have included interactive calculator programs such as dc and hoc, and 
 calculator functions are included in almost all personal digital assistant (PDA) type devices, the exceptions being a few dedicated
 address book and dictionary devices.
+
